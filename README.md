@@ -1,6 +1,9 @@
-详细内容请看 [CONTRIBUTION](CONTRIBUTION.md)
+本项目专注于打造良好的**代码可读性**
 
+是为了保证整体的可读性而提出的一些开发约定
 
+关于开发约定的详细内容请看 [CONVENTION](CONVENTION.md)
 
-本项目只是为了探讨一种较高可读性的写法，如果您有好的想法，请务必提出来。
+如果要贡献文档，请参考 [CONTRIBUTION](CONTRIBUTION.md)
 
+如果大家有什么好的点子，欢迎提出！
